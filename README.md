@@ -9,7 +9,7 @@
 
 ###  Содержание:
 1. 🟢 [Сортировки. Определение сложности алгоритма](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR1_AandS.py)
-    <kbd>LR1_AandS.py</kbd>
+    <kbd>LR1.py</kbd>
 2. 🟢 [Высота дерева](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR2.py)
     <kbd>LR2.py</kbd>
 3. 🟢 [Обработка сетевых пакетов](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR2.py)
