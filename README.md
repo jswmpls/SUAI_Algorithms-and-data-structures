@@ -18,7 +18,11 @@
     <kbd>LR4.py</kbd>
 5. 🟢 [Максимум в скользящем окне](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR2.py)
     <kbd>LR5.py</kbd>
-6. 🔴 Построение кучи
-7. 🟢 [Телефонная книга](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR2.py)
+6. 🟢 [Построение кучи](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR6.py)
+    <kbd>LR6.py</kbd>
+7. 🟢 [Телефонная книга](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR7.py)
     <kbd>LR7.py</kbd>
-8. 🔴 Обход двоичного дерева
+8. 🟢 [Обход двоичного дерева](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/LR8.py)
+    <kbd>LR8.py</kbd>
+9. 🟢 [Асимметричный алгоритм шифрования RSA](https://github.com/jswmpls/SUAI_Algorithms-and-data-structures/blob/main/lr9.py)
+    <kbd>lr9.py</kbd>
